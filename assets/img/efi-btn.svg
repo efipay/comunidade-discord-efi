@@ -1,0 +1,11 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 33 33" width="33" height="33">
+	<title>efi-btn-svg</title>
+	<defs>
+		<image width="33" height="20" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACEAAAAUCAMAAAA0jaRDAAAAAXNSR0IB2cksfwAAAZhQTFRF////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////vZv0rwAAAIh0Uk5TAEsWgf0ewf8CN8b+Stvwz4I0ooQ2EQQnQFVHKggJMk1UQR8VLS4PDY7n/OmjFD+28fvejG7tKMMaTu92+lMM3LxwYbL51A4g36xXT3nNX3WPBgFzenKTyuIpI9Ek9bmDfGv48+ySiIbW06gHzEIsA9WgG8cQtOGqb8LyYxebUb3qpTDgr13EQ/peM0wAAAE9SURBVHichdH5NwJRFAfwm+Ibg4gSStkpKWv2LIlkzZZI9n3fs2b/t82rmeE4nen7y3v33s95584ZohRRpJinKVXyID0DkJurM7M4eZGdg1xNnpzI1xYU6uI3fZGhuKTUKA5MZWZLeYWaqLKquibeqa2rt4KzNdgToNHhBJqaW0zUamszs067A4m4OljZ2SWUFuruQS/f6XOD6x9QDA55MOwlGhkFfGP+8YlJEsUUMD3Dn4FZFeaI5uFZYE8FSBKLCC4ZWUJuaIh8WF4RVxaEE78JE60iGFljWZfExh+xGeCFELckgtja3klk18/eCO/tszgkcQCnQfhNh8TEUcjOopPEsRWuk1Mio//s/IKJy6t/m6qvOdzc3imj98BDUkGPTyphz4g+uSD98wv/ybHXN1Zo3z+8oviMfn0T/QBr8kBCgp4F6AAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+	</style>
+	<g id="Layer">
+		<use id="img1" href="#img1" transform="matrix(1,0,0,1,0,4)"/>
+	</g>
+</svg>

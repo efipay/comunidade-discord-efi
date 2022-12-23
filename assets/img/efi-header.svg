@@ -1,0 +1,21 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 251 45" width="251" height="45">
+	<title>efi-header-svg</title>
+	<defs>
+		<image width="158" height="21" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJ4AAAAVCAMAAACALKdSAAAAAXNSR0IB2cksfwAAAFdQTFRFAAAAi5eri5Wri5aripWqi5eripaqipaqj4+vipaqh5evi5WripWqipaqi5SrjJasipWqipaqipWqipWqiZasipWqi5ari5ari5Wri5aqi5ari5Wri5ar9NfBZAAAAB10Uk5TAEDv/2B/r/AQwCCAMD9PX2/fn5BQz3C/sNCg4I8WDjD9AAACr0lEQVR4nL2XaZerIAyGWbREBFtbu1j7/3/nJQQQPC5nljt86CR5gTxCgDOM/afGhawWkfq0P+JA/9WmpJSQBxoX2BtwpP9uQzz9lfR/i1dJ2X4p/d/iMYDS/wmesZ2Fwos2t1YziAFjzzb2sYYwrMWhzncKv5xN0uMc4M05vbF1bbONpxkyPG0LveoltqsPQS0yjznrdkVfDIzf0eiH8LEN8bsQp+wPP7I3xWLwE013p4C5UjL5DACm1F3gSXr4TiAXCdxVAPfkmYAX2zUawwZebCbDq7K4C4BKjtArehYQdDG9vDPizzvQqSnxeVGNYcjojX4Tr5kyHbMNPjw1KX3rZmuahrKt6NynacaYH2mVWw9osX+LnV02wAFPwlPuMwzmVTwYwzre29UgV7R8hAe43S/ws1N6ePvaMK6bcH+noLOoT5SGPQL/SNPjlzB/XSkqiobSyHBBVAtjDc/7N2c8oo+dXyzNN5e737MVfaDRgRd8/jENMs67kTkQRqQy0eAHeLMuCUIv8HRXX6xuvfte6hj+1Niw0qs5bZp7CDaRJvlbeO5XsQLPpIMYdFnoL5m3Nl+vMHd4yaFcvW/jlelBZNlX9PcCD9Petzb3sYsnjvHeqbBDACuzxRM0u8NycznL2isV4wB0kvx9Bz2VxQ4edRz28FC803M0xuWiSqfaw+Xoc93MA+b9lB/jrnN5oqMkLhq6PpypLTz87r5jcBF7eD5p3xnonjIup8DscCUdu4mz0VH3q3Xv8DEJlNl234raVLCDp/Ma2cYzKu8XPv9Tn0Sg0QudwZS8Jd9o8NrMvW289PioXbySj5VH0+tTNg8GdHyhAoCb0Y8ZH2veJh5Vt2p3aw+Xo8V8L54eYeSZ2jbpD9JTgFUesMn/FzDFcSm97cb1cZ+VdjxKh9PxD8WYJoYWrJnMAAAAAElFTkSuQmCC"/>
+		<image width="13" height="20" id="img2" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAAUCAMAAABh7EcdAAAAAXNSR0IB2cksfwAAADZQTFRFAAAAi5ari5arj4+vipWqi5aripaqi5erh5eviZasi5Wri5WripWqi5Wri5aripaqi5Wri5aqMdJjZAAAABJ0Uk5TAKC/EDD/wEAgUOCAYO9w8LDQXrHg4wAAAFJJREFUeJx1z0cOwCAMBVHaxLS0+182q/ADUtiNnmQb597nQ4gjEmxOBDYir1RGRKiiBl20f+mApqqc2twXQlTAizbII2yiC9L/vdNXblE208AHA4wB9Zos0XAAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		.s0 { fill: #f37021 } 
+	</style>
+	<g id="Layer">
+		<g id="Layer">
+			<use id="img1" href="#img1" transform="matrix(1,0,0,1,93,19)"/>
+			<use id="img2" href="#img2" transform="matrix(1,0,0,1,78,20)"/>
+		</g>
+	</g>
+	<g id="Camada 1">
+		<g id="&lt;Group&gt;">
+			<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s0" d="m59.7 10.6c0-0.8 0.4-1.3 1.1-1.9l11.2-8.7v9.1l-9.2 3.4c-1.8 0.6-3.1-0.5-3.1-1.9zm0 4.7h5.9v28.6h-5.9zm-26.9 12.2c0-7.5 5.3-12.7 13.1-12.7 3.6 0 6.6 1.1 9.3 3.1l-3.8 4.3c-1.4-1-3.4-1.8-5.6-1.8-4.2 0-7.2 2.7-7.1 7.1h14.8v5.4h-14.8v11h-5.9zm-6.7 4.5h-20.1c0.9 4.3 4 6.9 8.7 6.9 3.5 0 6.3-1.4 8.3-4.1l4.2 3.4c-2.8 3.8-7.1 6.3-12.4 6.3-8.5 0-14.8-6.4-14.8-15.1 0-8.6 6.3-14.6 14.2-14.6 9.1 0 13.9 7.7 13.9 14.3 0 2.1-0.5 2.9-2 2.9zm-4.1-5.4c-0.6-3.9-3.4-6.2-7.8-6.2-4.2 0-7.3 2.3-8.2 6.2z"/>
+		</g>
+	</g>
+</svg>

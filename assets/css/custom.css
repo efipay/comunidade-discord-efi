@@ -1,0 +1,311 @@
+/*
+ * LOADING 
+ */
+body.loading:after {
+    content: "";
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 100vw;
+    height: 100vh;
+    background: #242939;
+}
+
+body.loading:before {
+    content: "";
+    position: absolute;
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    align-content: center;
+    justify-content: space-around;
+    align-items: center;
+    background: url('../img/logo-efi-footer.svg') #242939 no-repeat center center;
+    background-size: 130px;
+    animation: flash 1s linear infinite;
+    z-index: 9;
+}
+
+@keyframes flash {
+    50% {
+        opacity: 0;
+    }
+}
+
+.hiddenOverflow {
+    overflow: hidden;
+}
+
+/* /LOADING */
+
+
+
+/*
+ * HEADER 
+ */
+#header {
+    width: 100%;
+    background: transparent linear-gradient(176deg, var(--dark-gray_bg) 0%, #120F23 100%) 0% 0% no-repeat padding-box;
+}
+
+#header .navbar-collapse {
+    width: auto;
+}
+
+#header .nav-link {
+    font: normal normal bold 18px/31px "Red Hat Display";
+    margin: 0 22px 0 22px;
+    border-bottom: solid 2px transparent;
+    color: var(--grey_gn);
+}
+
+#header .nav-link:hover {
+    border-bottom: solid 2px var(--orange_gn);
+    color: var(--grey_gn);
+}
+
+#header nav ul li:first-child a {
+    color: var(--orange_gn);
+}
+
+/* /HEADER */
+
+
+
+/*
+ * INTRODUÇÃO 
+ */
+#lottie-comunidade {
+    background-color: transparent;
+    width: 100%;
+    margin: 0 auto;
+}
+
+#cta-video {
+    font-size: 12px;
+    font-weight: medium;
+    text-transform: uppercase;
+    padding: 2px 5px;
+    color: var(--grey_gn);
+    background-color: #0D0D1D;
+    border-radius: 20px;
+    vertical-align: middle;
+    display: table-cell;
+    text-decoration: none;
+    display: inline;
+}
+
+#cta-video img {
+    width: 14px;
+    margin-right: 2px;
+}
+
+#tutorial-discord {
+    display: inline;
+    vertical-align: middle;
+    margin-right: 10px;
+}
+
+#video-discord {
+    vertical-align: middle;
+    width: 147px;
+    height: 93px;
+    border-radius: 6px;
+    margin: 15px;
+}
+
+/* /INTRODUÇÃO */
+
+
+/*
+ * NOSSA-COMUNIDADE 
+ */
+#nossa-comunidade {
+    width: 100%;
+    background: var(--dark-gray_bg) 0% 0% no-repeat padding-box;
+}
+
+#widget-discord {
+    width: 100%;
+    padding: 0 20px 0 20px;
+    min-height: 450px;
+    margin: 0 auto;
+    margin-top: -40px;
+}
+
+/* /NOSSA-COMUNIDADE  */
+
+
+/*
+ * ESTATÍSTICAS
+ */
+#estatisticas {
+    width: 100%;
+    background-color: var(--dark-gray_bg);
+}
+
+#membros,
+#time-suporte {
+    font-size: 52px;
+    font-weight: bold;
+    color: var(--orange_gn);
+    letter-spacing: 0px;
+}
+
+#borda-linguagens {
+    padding-right: 20px;
+}
+
+#borda-membros,
+#borda-suporte,
+#borda-convite {
+    border-left: solid 1px #8b96aa2f;
+    padding-left: 30px;
+    padding-right: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+#borda-convite p {
+    margin-bottom: 0;
+}
+
+/* /ESTATÍSTICAS  */
+
+#linguagens-programacao {
+    margin-right: 15px;
+}
+
+#stacks img {
+    width: 55px;
+    height: 55px;
+}
+
+#linguagens-programacao img {
+    width: 45px;
+    margin: 8px 0px;
+}
+
+
+
+/*
+ * DOCUMENTAÇÃO
+ */
+#documentacao {
+    width: 100%;
+    background-color: var(--dark-gray_bg);
+    padding-bottom: 90px;
+    padding-top: 50px;
+    position: relative;
+}
+
+#documentacao h1 {
+    color: var(--blue_gn);
+}
+
+#doc-image {
+    background-color: var(--blue_gn);
+    position: absolute;
+    right: 1px;
+    top: 0;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+#doc-image img {
+    width: 60%;
+    margin: 60px;
+    max-width: 550px;
+}
+
+#botoes-documentacao {
+    margin-top: 60px;
+}
+
+#descricao-documentacao {
+    padding-right: 60px;
+}
+
+/* /DOCUMENTAÇÃO  */
+
+
+/*
+ * DEVS
+ */
+
+#devs button {
+    display: inline-flex;
+}
+
+#img-wrapper {
+    position: relative;
+}
+
+#lottie-devs {
+    width: 100%;
+    margin: 0 auto;
+}
+
+.img-overlay {
+    position: absolute;
+    top: 140px;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    text-align: center;
+}
+
+.img-overlay:before {
+    content: ' ';
+    display: block;
+    height: 50%;
+}
+
+/* /DEVS  */
+
+
+/*
+ * RODAPÉ
+ */
+#rodape {
+    width: 100%;
+    background: linear-gradient(to bottom, var(--dark-gray_bg), #120F23);
+}
+
+#rodape ul {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: flex-end;
+}
+
+#rodape ul li {
+    display: flex;
+    list-style-type: none;
+    margin-left: 10px;
+}
+
+#rodape ul li:first-child {
+    margin-left: 0;
+}
+
+#rodape ul li button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: transparent;
+}
+
+#copyright {
+    color: var(--grey_gn);
+    font-size: 13px;
+    font-weight: 500;
+}
+
+footer {
+    padding: 50px 0;
+}
+
+/* /RODAPÉ  */

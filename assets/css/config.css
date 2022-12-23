@@ -1,0 +1,30 @@
+/*
+ * Família tipográfica Red Hat Display
+ */
+@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Display:wght@400;500;700;900&display=swap');
+
+:root {
+    /*
+     * Paleta de cores Efí
+     */
+    --orange_gn: #f37021;
+    --white_gn: #ffffff;
+
+    --blue_gn: #00bbce;
+    --dark_blue_gn: #0da8b9;
+
+    --grey_gn: #A3ACBD;
+    --dark-grey_gn: #414042;
+    /* /Paleta de cores Efí  */
+
+
+    /*
+     * Paleta de cores Discord
+     */
+    --blue_discord: #5865F2;
+    --dark-blue_discord: #4d59d4;
+
+    --dark-gray_bg: #29303E;
+    --dark-blue_bg: #1E2130;    
+    /* /Paleta de cores Discord  */
+}
